@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1764592009288,
+  "timestamp": 1764595713446,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -204,7 +204,7 @@
     "/data/aef/data-dsp.json": "c59a11c2937e3d33fdd04da6feaf9036665b5a96",
     "/data/aef/data-sfy.json": "11390cd867ed960c1ca2225ca9bc403a631a4cc2",
     "/data/aef/data-spa.json": "05e36a824679caf789bd883f40c683cce6427628",
-    "/data/aef/data.json": "04a6e07f233ace30a45a63f4e2b52b0a8684f0f9",
+    "/data/aef/data.json": "bc822a17cf63b3b52817a259a92ee5f7544b45dc",
     "/data/aef/defaults-spa.json": "ff3e7f17b87e3a55e7ca7ee5261bf4a22b294bfb",
     "/data/aef/hash.json": "d8fee5b62e57f11b8e4ac20c2f162463da5bd799",
     "/data/aef/icons.webp": "0467eb5595ff0bbb57b5dfa6e160441841c5e12c",
