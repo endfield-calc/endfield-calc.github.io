@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1764668844745,
+  "timestamp": 1764669331143,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -60,12 +60,15 @@
         "/favicon.ico",
         "/index.html",
         "/main-HSKVD3U5.js",
+        "/ngsw-worker.js",
         "/polyfills-FFHMD2TL.js",
+        "/safety-worker.js",
         "/site.webmanifest",
         "/styles-WGNQKQRW.css",
         "/theme-black.css",
         "/theme-dark.css",
-        "/theme-light.css"
+        "/theme-light.css",
+        "/worker-basic.min.js"
       ],
       "patterns": []
     },
@@ -233,13 +236,16 @@
     "/media/primeicons-GEFHGEHP.ttf": "3b878ca7e88945a8ec25814810b95367d8977ae6",
     "/media/primeicons-P53SE5CV.woff": "361e3af71bb4e515feead2f787348a92a5527158",
     "/mstile-150x150.png": "7a97514987104e30d2ce761a63a992bec07c6b5e",
+    "/ngsw-worker.js": "bd461fc38ee7c36dd5de22ff1bf8d1011694492f",
     "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/safari-pinned-tab.svg": "a7a39709cb155ff119dabb5882faa2a115f95e60",
+    "/safety-worker.js": "3b3c24f5fca13ee61325298c2009282aeef273c7",
     "/site.webmanifest": "0048339a1ee5c5f7425f491974fb01da4a195a86",
     "/styles-WGNQKQRW.css": "eaea1ac450fdeff41b9d9f87db979038cb6d47a6",
     "/theme-black.css": "a7d5fc50b432ab7d34a4b7696aa7dea1ed02a7b9",
     "/theme-dark.css": "0e8fdcab138d141fd4b2695ae6b6cdcc31ebab4d",
-    "/theme-light.css": "a2c4456d11bc71f9d45a91660217572c24b1a06b"
+    "/theme-light.css": "a2c4456d11bc71f9d45a91660217572c24b1a06b",
+    "/worker-basic.min.js": "3b3c24f5fca13ee61325298c2009282aeef273c7"
   },
   "navigationUrls": [
     {
