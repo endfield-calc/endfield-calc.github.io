@@ -1904,7 +1904,7 @@
         "plant_moss_3": 1
       },
       "out": {
-        "plant_moss_powder_3": 1
+        "plant_moss_powder_3": 3
       },
       "producers": [
         "grinder_1"
