@@ -2662,10 +2662,10 @@
       "time": 2,
       "in": {
         "iron_bottle": 1,
-        "liquid_plant_grass_1": 1
+        "liquid_plant_grass_2": 1
       },
       "out": {
-        "iron_bottle-liquid_plant_grass_1": 1
+        "iron_bottle-liquid_plant_grass_2": 1
       },
       "producers": [
         "filling_pd_mc_1"
@@ -2677,7 +2677,7 @@
       "name": "蓝铁瓶(芽针溶液)",
       "category": "material",
       "row": 4,
-      "icon": "iron_bottle-liquid_plant_grass_1"
+      "icon": "iron_bottle-liquid_plant_grass_2"
     },
     {
       "time": 2,
