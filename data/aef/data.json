@@ -2754,7 +2754,7 @@
     {
       "time": 2,
       "in": {
-        "carbon_enr": 10,
+        "carbon_enr": 2,
         "liquid_water": 1
       },
       "out": {
