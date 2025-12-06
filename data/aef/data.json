@@ -1682,7 +1682,7 @@
         "plant_moss_1": 1
       },
       "out": {
-        "plant_moss_powder_1": 1
+        "plant_moss_powder_1": 2
       },
       "producers": [
         "grinder_1"
@@ -1806,7 +1806,7 @@
         "plant_grass_1": 1
       },
       "out": {
-        "plant_grass_powder_1": 1
+        "plant_grass_powder_1": 2
       },
       "producers": [
         "grinder_1"
@@ -1841,7 +1841,7 @@
         "carbon_mtl": 1
       },
       "out": {
-        "carbon_powder": 1
+        "carbon_powder": 2
       },
       "producers": [
         "grinder_1"
@@ -1977,7 +1977,7 @@
         "plant_moss_2": 1
       },
       "out": {
-        "plant_moss_powder_2": 1
+        "plant_moss_powder_2": 2
       },
       "producers": [
         "grinder_1"
@@ -2101,7 +2101,7 @@
         "plant_grass_2": 1
       },
       "out": {
-        "plant_grass_powder_2": 1
+        "plant_grass_powder_2": 2
       },
       "producers": [
         "grinder_1"
