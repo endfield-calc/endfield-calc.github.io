@@ -1768,7 +1768,7 @@
         "plant_grass_1": 1
       },
       "out": {
-        "plant_grass_seed_1": 2
+        "plant_grass_seed_1": 1
       },
       "producers": [
         "seedcol_1"
@@ -1915,7 +1915,7 @@
         "furnance_1"
       ],
       "id": "carbon_mtl-plant_grass_1",
-      "name": "碳块(芽针)",
+      "name": "碳块(锦草)",
       "category": "material",
       "row": 0,
       "icon": "carbon_mtl-plant_grass_1"
@@ -1932,7 +1932,7 @@
         "furnance_1"
       ],
       "id": "carbon_mtl-plant_grass_2",
-      "name": "碳块(锦草)",
+      "name": "碳块(芽针)",
       "category": "material",
       "row": 0,
       "icon": "carbon_mtl-plant_grass_2"
@@ -2063,7 +2063,7 @@
         "plant_grass_2": 1
       },
       "out": {
-        "plant_grass_seed_2": 2
+        "plant_grass_seed_2": 1
       },
       "producers": [
         "seedcol_1"
