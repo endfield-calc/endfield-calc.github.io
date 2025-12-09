@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1765272470577,
+  "timestamp": 1765285104653,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -147,7 +147,7 @@
     "/assets/i18n/ja.json": "ce7d66057d2d196a2db2e3bc8a63ce44eeed0871",
     "/assets/i18n/ru.json": "5cd85962a09ee58fb908a39288a71db8f4bec5ce",
     "/assets/i18n/zh.json": "ea95349c4eace92f58cbf920fe903e7a80e97906",
-    "/assets/release.json": "c0c7a313c34399cf6a0067828d513e40ba3d1019",
+    "/assets/release.json": "313343240d8a0c8faac447b735712b8434f0cf53",
     "/chunk-34BY3VGN.js": "11cc67924971bb4cd9197500ad5648e060ec6ea5",
     "/chunk-6IALOC25.js": "a16db3d8ad2f97296eac3d924221bde6e33d3893",
     "/chunk-6KPJCYOI.js": "d58c5427854f22f2f24cb4b84f91288897424d2e",
@@ -207,10 +207,10 @@
     "/data/aef/data-dsp.json": "7244fab1d16f01f0d334894d2798d8dcd1976932",
     "/data/aef/data-sfy.json": "c40554ba0e2d0d4a1dbadcb1e26da9bc2ba77132",
     "/data/aef/data-spa.json": "94c603fdbbc494626ccc1be4c8e4c7736ebd34b9",
-    "/data/aef/data.json": "7d5ab5b5dc6ba751701226709bfdb6fea5376bce",
+    "/data/aef/data.json": "5625347a9d1be87351561c82a3ca4ad252e4562b",
     "/data/aef/defaults-spa.json": "39f560850680104c886d8f39ba23cfd953d47af3",
     "/data/aef/hash.json": "92b3a6a96997e590d083b9b3cae8d3fdeb403937",
-    "/data/aef/icons.webp": "e60396a7a553fc4d6fa39cfb850400ac80571fba",
+    "/data/aef/icons.webp": "2c11a2ba572234fbfd227cc5eec59fc424d97bee",
     "/data/index.ts": "1b609d647e038a74941527fcfc4c9b589d725ecd",
     "/factoriolab.webp": "0994ab2d6435fc680f9fe8eca7f59cf3f709f599",
     "/favicon-128x128.png": "983e77afd570f31ac052b051c3195ad4f868abf6",
