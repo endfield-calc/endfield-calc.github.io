@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1765264110712,
+  "timestamp": 1765267430855,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/chunk-34BY3VGN.js",
-        "/chunk-6GYCZ3NV.js",
+        "/chunk-3KRBLM7J.js",
         "/chunk-6IALOC25.js",
         "/chunk-6KPJCYOI.js",
         "/chunk-6T6QM3HZ.js",
@@ -59,7 +59,7 @@
         "/chunk-ZUNC4BW3.js",
         "/favicon.ico",
         "/index.html",
-        "/main-A5RX2R4O.js",
+        "/main-6V7JNEGA.js",
         "/ngsw-worker.js",
         "/polyfills-FFHMD2TL.js",
         "/safety-worker.js",
@@ -147,9 +147,9 @@
     "/assets/i18n/ja.json": "ce7d66057d2d196a2db2e3bc8a63ce44eeed0871",
     "/assets/i18n/ru.json": "5cd85962a09ee58fb908a39288a71db8f4bec5ce",
     "/assets/i18n/zh.json": "b3a0d7fd52c0cc29c5104b97e48ce63cf9c904ff",
-    "/assets/release.json": "3a5c3ae929362e3ae2a9c120de42e4c420bc5b25",
+    "/assets/release.json": "bdf515f6242c9b3f1c90686bdd4d1e6961b69a16",
     "/chunk-34BY3VGN.js": "11cc67924971bb4cd9197500ad5648e060ec6ea5",
-    "/chunk-6GYCZ3NV.js": "f5d432127b30ccf2eaeb5e58c85ba84918cc1c3c",
+    "/chunk-3KRBLM7J.js": "e970eaca270526189c23042b8dbcd87dae97a241",
     "/chunk-6IALOC25.js": "a16db3d8ad2f97296eac3d924221bde6e33d3893",
     "/chunk-6KPJCYOI.js": "d58c5427854f22f2f24cb4b84f91288897424d2e",
     "/chunk-6T6QM3HZ.js": "70f3fe459bfda83c5c79071ae9c93ceff29f58b3",
@@ -218,8 +218,8 @@
     "/favicon-32x32.png": "657c076b7199ef78bd2fca9a241b910851de496e",
     "/favicon.ico": "90b7d7707124d6fbd7f9acf4445fc1e6d98a3a2e",
     "/icons.webp": "73440ed158ddcf82a8f6a69efcf0b85ac7eb9d0c",
-    "/index.html": "a5c044ba91f973f2d3e4a16b320347f5448e7d05",
-    "/main-A5RX2R4O.js": "31d80e283d7e4e89fb9115489071d4da5f83e208",
+    "/index.html": "84969b8a8d6692ec79181aca522b6b80545b8205",
+    "/main-6V7JNEGA.js": "b6e75fc3f1e2dd0653afb45f3af6c0f76c8683ec",
     "/media/color-727V6BA6.png": "c54e4eac0b6c88b9da8cfdf00b1d9093b828286b",
     "/media/fa-brands-400-CNBICIQT.ttf": "7ce89c71d5a51ac65b159c71422783dd86529c66",
     "/media/fa-brands-400-MDS4TU4L.woff2": "e948290773216dc1b50c2121314a8cf918c22b54",
