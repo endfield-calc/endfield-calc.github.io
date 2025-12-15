@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1765771950291,
+  "timestamp": 1765792625116,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -64,7 +64,7 @@
         "/polyfills-FFHMD2TL.js",
         "/safety-worker.js",
         "/site.webmanifest",
-        "/styles-WGNQKQRW.css",
+        "/styles-3G6RAACH.css",
         "/theme-black.css",
         "/theme-dark.css",
         "/theme-light.css",
@@ -147,7 +147,7 @@
     "/assets/i18n/ja.json": "f64479e335803be3e6f519d37e28ce5d31f80464",
     "/assets/i18n/ru.json": "781513efd41c6ee31779bf902ba4b77447405882",
     "/assets/i18n/zh.json": "4d15c2cdd6aeb6ad939c182aba606197483e1a8c",
-    "/assets/release.json": "6812a545cb6a82c499c0fd2e84f8d19d0c77ee3b",
+    "/assets/release.json": "27c2dbf9c33d56be7fd90294d4e60bac5d9f1b7b",
     "/chunk-3Z6INGTG.js": "b6971b7ca010dd71d95abd3b0a7cbaf858188059",
     "/chunk-44XXGDZW.js": "92a1bfc91b11566776c8218bab50f38be73c0433",
     "/chunk-4HZJOXX2.js": "7c28c662a31fa68c8f70ec59e00e36850c6c0507",
@@ -218,7 +218,7 @@
     "/favicon-32x32.png": "498093cb39a9b810cd47d21791975b952f4b6f96",
     "/favicon.ico": "d46ea312fcd95fc36769b1ed15763a4ec66cab6b",
     "/icons.webp": "73440ed158ddcf82a8f6a69efcf0b85ac7eb9d0c",
-    "/index.html": "669c92d13191e1dfcf5b2bc060014ea351974b4f",
+    "/index.html": "b467449d8607dbc32278620e90b63c21ae02b366",
     "/main-NJ434WEY.js": "1c1e163919bfc84725656aa18e75ee2f2f0cd8b5",
     "/media/color-727V6BA6.png": "c54e4eac0b6c88b9da8cfdf00b1d9093b828286b",
     "/media/fa-brands-400-CNBICIQT.ttf": "7ce89c71d5a51ac65b159c71422783dd86529c66",
@@ -241,10 +241,10 @@
     "/safari-pinned-tab.svg": "e6253c036c241356653e4f455d95d2aec79d07a8",
     "/safety-worker.js": "3b3c24f5fca13ee61325298c2009282aeef273c7",
     "/site.webmanifest": "accf2419259966426f59280843db6185a397a03d",
-    "/styles-WGNQKQRW.css": "eaea1ac450fdeff41b9d9f87db979038cb6d47a6",
+    "/styles-3G6RAACH.css": "1d5c42317f6ff776d39668df803a3bec8fba5cb6",
     "/theme-black.css": "a7d5fc50b432ab7d34a4b7696aa7dea1ed02a7b9",
     "/theme-dark.css": "0e8fdcab138d141fd4b2695ae6b6cdcc31ebab4d",
-    "/theme-light.css": "a2c4456d11bc71f9d45a91660217572c24b1a06b",
+    "/theme-light.css": "73d2c368aafd68f02d0e4e86e0702a9c1b3b9084",
     "/worker-basic.min.js": "3b3c24f5fca13ee61325298c2009282aeef273c7"
   },
   "navigationUrls": [
