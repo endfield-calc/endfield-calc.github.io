@@ -1,12 +1,12 @@
 {
-  "name": "EndField Calculator",
-  "short_name": "EndField Calc",
-  "description": "A feature-rich factory production calculator for ArknightsEndfield. Determine resource and machine requirements for your desired objectives.",
+  "name": "EndFieldLab",
+  "short_name": "EndFieldLab",
+  "description": "A feature-rich factory production calculator for Arknights: Endfield. Determine resource and machine requirements for your desired objectives.",
   "id": "/endfield-calc",
   "start_url": "./",
   "scope": "./",
-  "theme_color": "#009fce",
-  "background_color": "#121212",
+  "theme_color": "#754f29",
+  "background_color": "#f8f9fa",
   "display": "standalone",
   "categories": ["games", "utilities"],
   "icons": [
