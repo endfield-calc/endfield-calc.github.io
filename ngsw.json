@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1773799314956,
+  "timestamp": 1774846528428,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -145,13 +145,13 @@
     "/android-chrome-512x512.png": "c2f4700d56f2cad64eda8c404b71cc4348d20c7d",
     "/apple-touch-icon.png": "091e89390337117c4f95b35aaf61ee8e2dbe4e6e",
     "/assets/glpk-wasm/glpk.all.wasm": "a256348a60f4703838b77b9f3c0bab965c32b994",
-    "/assets/i18n/de.json": "650120fe8b2ede9e079803963ee54042b0c819c6",
-    "/assets/i18n/en.json": "85f131c3f11c891251ecb8a632b5a75b9cdb11d2",
-    "/assets/i18n/fr.json": "acda0d0fe085773f0faa5d268d3ac19421dd74bf",
-    "/assets/i18n/ja.json": "9e3a0b9d2d1c5e7b783c9cdbb5d20998af700c79",
-    "/assets/i18n/ru.json": "ce6a9f0b14238b1e8d74dbb99c518c0643dd4e6e",
+    "/assets/i18n/de.json": "8e46334092d81b72dd2dee6b695a01dd86413ada",
+    "/assets/i18n/en.json": "d4c3870efbf854c23668c7e1bcbacb1ffe209099",
+    "/assets/i18n/fr.json": "11855743cdfb4683c895cd73a957e731b76c39c0",
+    "/assets/i18n/ja.json": "0c4bf9c4ccb7b337c3c9e8c07e596b95fdb043eb",
+    "/assets/i18n/ru.json": "1185a0d68fad218a45feaadc999051b541293b3c",
     "/assets/i18n/zh.json": "2a11e184b1bfe4d4a0137d3e974c5a20a0596b40",
-    "/assets/release.json": "8ef2c87ec2f7166f42a5a654a7ae64b6e587bf83",
+    "/assets/release.json": "61de250d06448325cc116d349ab9c515d5b40f50",
     "/chunk-2E4U5LW3.js": "e490ed434b1fe3cd1bd0d61e39e35b1f1979664d",
     "/chunk-3SCI4OKU.js": "e6b5c4ddb75994c080e24d143ac319b7d0f85ea3",
     "/chunk-5FIM3GBE.js": "b2f388f1c8f57c225707a6d205e60677945fb1ef",
