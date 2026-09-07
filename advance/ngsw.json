@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1788778735271,
+  "timestamp": 1788779753487,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -158,7 +158,7 @@
     "/assets/i18n/ja.json": "642c7af1f05a013279cae82c1bca5ff650e69cb7",
     "/assets/i18n/ru.json": "bbae3320eb96b9376613fb9895e75f97617c83e1",
     "/assets/i18n/zh.json": "152f72e7c0a0ae9339ac4bfd74c2f920fd3d0ba7",
-    "/assets/release.json": "1f01a8d29225d2c62497f97ba2d93ee3af334c22",
+    "/assets/release.json": "316cd8adf70a0b35985b6df8358cfc2ca167d46c",
     "/chunk-35VMZ7LA.js": "949c59c3946ac6ef5c012d0fea5b4ca3926f3638",
     "/chunk-3N7JTOTA.js": "bc91d68cce3f3eefb46107b8b52edd1f08ec860b",
     "/chunk-3QENJDTZ.js": "d49493774d8020cab45873e047ed8a17a7b302e0",
@@ -285,6 +285,14 @@
     {
       "positive": false,
       "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/advance$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/advance\\/.*$"
     }
   ],
   "navigationRequestStrategy": "performance"
