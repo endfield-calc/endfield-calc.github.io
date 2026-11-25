@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1795581615423,
+  "timestamp": 1795581711184,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -147,7 +147,7 @@
     "/assets/i18n/ja.json": "2a140a8928a76ad0d4f6c26ad4350d5f28b86df1",
     "/assets/i18n/ru.json": "7db1ced75094427a012fbb6c6d71c580cfdadd5a",
     "/assets/i18n/zh.json": "29f91c43f49b7ef173e071f548a1ae75422be8d1",
-    "/assets/release.json": "6872ed60797a783946a7826363cedd8934037db2",
+    "/assets/release.json": "b3cada310c37675df64ed6316d9fe43a50e7a809",
     "/chunk-2CYK3PLZ.js": "2340aee335dd8aab3909a666d94cb1d90fcbe2e5",
     "/chunk-3JWDWWFJ.js": "39569893e07d5fe95984c8f9151fab0f466f2322",
     "/chunk-4GCU4QA4.js": "912f72e73871f076602af1b6c87cd915c5486829",
@@ -206,11 +206,11 @@
     "/data/1.1/icons.webp": "c22aebdfe156f65a85da43c75b60cac7aac7a1b8",
     "/data/aef/data.json": "17bedfbb26a798f117aa475b825063c72a52ca6b",
     "/data/aef/hash.json": "7fcd0f571e2137d4dc9b6bb455fd1db5ad200c4e",
-    "/data/aef/i18n/en.json": "c7d9d9003bf7bdbcac10b5e8e6945d7bf989142c",
-    "/data/aef/i18n/ja.json": "ef4c1519758c0f827d8ca9ba44611f128e7d7bdc",
-    "/data/aef/i18n/ru.json": "3e135073c1ed157f3945e347c8b9b4d874518adf",
-    "/data/aef/i18n/zh.json": "b68f57453c58526f814ad88d93b6b60e4cbb1331",
-    "/data/aef/icons.webp": "bea979aebb27c346c084c9e0573a533f3ae517de",
+    "/data/aef/i18n/en.json": "a7b235f07fa7dfb454903b59325a901eebad22c2",
+    "/data/aef/i18n/ja.json": "5404c9d468a9c1cc60b1ac0da726681ad7ca33a7",
+    "/data/aef/i18n/ru.json": "1163175d9a2f75785f0469dd3e658c207d285258",
+    "/data/aef/i18n/zh.json": "53dab13b1c8a23ca1395af94c85fbe5768b03dca",
+    "/data/aef/icons.webp": "9463863917740e14420b4883ad464228f1b4f21b",
     "/data/index.ts": "1b609d647e038a74941527fcfc4c9b589d725ecd",
     "/factoriolab.webp": "9371409e629ccb6354779e8a3dd7f984d2789bc4",
     "/favicon-128x128.png": "997703e33ea2496727234889a4ac7bbf7a619bc1",
